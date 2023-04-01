@@ -67,7 +67,7 @@ public class Main {
             nod++;
         }
         System.out.println();
-        //EXERCITIU 3
+        //EXERCITIU 3 
         Tree tree = new Tree();
         for (String s : listArbore) {
             String[] valori = s.split(" ");
