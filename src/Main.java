@@ -74,6 +74,6 @@ public class Main {
             tree.INSERT_NEW(Integer.parseInt(valori[1]),Integer.parseInt(valori[0]));
         }
         System.out.println(tree);
-        tree.afisareFii(); //test
+        tree.afisareFii();
     }
 }
